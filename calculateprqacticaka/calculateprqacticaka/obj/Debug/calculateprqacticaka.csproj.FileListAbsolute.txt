@@ -1,0 +1,9 @@
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\bin\Debug\calculateprqacticaka.exe.config
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\bin\Debug\calculateprqacticaka.exe
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\bin\Debug\calculateprqacticaka.pdb
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\obj\Debug\calculateprqacticaka.csprojAssemblyReference.cache
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\obj\Debug\calculateprqacticaka.Form1.resources
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\obj\Debug\calculateprqacticaka.Properties.Resources.resources
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\obj\Debug\calculateprqacticaka.csproj.GenerateResource.cache
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\obj\Debug\calculateprqacticaka.exe
+C:\Users\tarki\source\repos\calculateprqacticaka\calculateprqacticaka\obj\Debug\calculateprqacticaka.pdb
